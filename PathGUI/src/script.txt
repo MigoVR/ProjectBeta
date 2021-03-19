@@ -1,1 +1,1 @@
-dawdawdaw
+Choose a path:;Live;Die;
